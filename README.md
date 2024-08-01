@@ -3,8 +3,8 @@
  config JSON:  
  "plugin": "AutoTKWarn",  
  "enabled": true,  
- "attackerMessage": "Please apologise for SORRY in ALL chat in 60sec or kick!",  
- "reminderMessage": "You have 30 seconds left to apologize SORRY in ALL chat",  
- "victimMessage": "And that was teamkill...",  
- "apologyKeywords": "['sorry', 'sry', 'sorry tk', 'sry tk', 'my bad', 'SORRY']",  
- "thankYouMessage": "The admins are grateful for an apology."   
+ "attackerMessage": "YOUR TEXT HERE",  
+ "reminderMessage": "YOUR TEXT HERE",  
+ "victimMessage": "YOUR TEXT HERE",  
+ "apologyKeywords": "YOUR TEXT HERE",  
+ "thankYouMessage": "YOUR TEXT HERE"   
